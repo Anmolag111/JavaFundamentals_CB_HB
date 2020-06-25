@@ -84,7 +84,7 @@ class MergeLists
         Node(int d) {data = d; next = null; }
     }
 */
-
+/*
 class LinkedList
 {
     Node sortedMerge(Node headA, Node headB) {
@@ -141,3 +141,4 @@ class LinkedList
        return head;
    } 
 }
+*/
