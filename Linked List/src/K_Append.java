@@ -1,4 +1,5 @@
 import java.util.*;
+
 class LinkedList2 {
 	private class Node {
 		int data;
