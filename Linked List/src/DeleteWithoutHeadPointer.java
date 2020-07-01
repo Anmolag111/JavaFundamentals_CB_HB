@@ -9,6 +9,7 @@ class Node
 	Node next;
 	Node(int d)
 	{
+		
 		data = d;
 		next = null;
 	}
